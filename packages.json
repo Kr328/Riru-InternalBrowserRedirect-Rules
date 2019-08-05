@@ -7,6 +7,18 @@
 		{
 			"packageName": "com.tencent.mm",
 			"version": 1
+		},
+		{
+            "packageName": "tv.danmaku.bili",
+            "version": 1
+		},
+		{
+            "packageName": "com.bilibili.app.in",
+            "version": 1
+		},
+		{
+            "packageName": "com.tencent.mobileqq",
+            "version": 1
 		}
 	]
 }

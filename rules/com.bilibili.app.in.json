@@ -1,0 +1,15 @@
+{
+    "tag": "Bilibili",
+    "authors": "Kr328",
+    "version": 1,
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/url",
+            "url-filter": {
+                "ignore": ".*bilibili\\.com.*",
+                "force": ""
+            }
+        }
+    ]
+}
