@@ -3,6 +3,10 @@
 		{
 			"packageName": "com.tencent.tim",
 			"version": 1
+		},
+		{
+			"packageName": "com.tencent.mm",
+			"veriosn": 1
 		}
 	]
 }
