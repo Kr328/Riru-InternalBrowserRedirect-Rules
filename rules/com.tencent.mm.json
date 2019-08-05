@@ -1,0 +1,15 @@
+{
+    "tag": "WeChat",
+    "authors": "Kr328",
+    "version": 1,
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/rawUrl",
+            "url-filter": {
+                "ignore": ".*qq\\.com/.*",
+                "force": ""
+            }
+        }
+    ]
+}
