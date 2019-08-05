@@ -1,7 +1,7 @@
 {
     "tag": "Bilibili",
     "authors": "Kr328",
-    "version": 1,
+    "version": 2,
     "rules": [
         {
             "tag": "default",

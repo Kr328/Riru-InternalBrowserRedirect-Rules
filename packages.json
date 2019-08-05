@@ -10,11 +10,11 @@
 		},
 		{
             "packageName": "tv.danmaku.bili",
-            "version": 1
+            "version": 2
 		},
 		{
             "packageName": "com.bilibili.app.in",
-            "version": 1
+            "version": 2
 		},
 		{
             "packageName": "com.tencent.mobileqq",
