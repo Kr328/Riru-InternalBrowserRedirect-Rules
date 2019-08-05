@@ -5,7 +5,7 @@
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://extra/url",
+            "url-source": "intent://data",
             "url-filter": {
                 "ignore": ".*bilibili\\.com.*",
                 "force": ""
