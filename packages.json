@@ -2,7 +2,7 @@
 	"packages": [
 		{
 			"packageName": "com.tencent.tim",
-			"version": 1
+			"version": 2
 		},
 		{
 			"packageName": "com.tencent.mm",
