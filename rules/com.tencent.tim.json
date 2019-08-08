@@ -1,7 +1,6 @@
 {
     "tag": "TIM",
     "authors": "Kr328",
-    "version": 2,
     "rules": [
         {
             "tag": "default",
