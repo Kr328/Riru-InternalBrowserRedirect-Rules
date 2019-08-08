@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+
+        <script>
+            const language_to_pages = {
+                "zh-CN": "./zh-CN",
+                "zh-TW": "./zh-CN",
+                "zh": "./zh-CN",
+                "en-US": "./en-US",
+                "en": "./en-US"
+            }
+
+            function detect_language_page() {
+                for ( const lang of navigator.languages ) {
+                    if ( language_to_pages[lang] != undefined ) {
+                        return language_to_pages[lang]
+                    }
+                }
+                return language_to_pages.en
+            }
+
+            window.location = detect_language_page()
+        </script>
+    </head>
+    <body></body>
+</html>
