@@ -109,7 +109,7 @@ Riru - InternalBrowserRedirect 的 策略组
 3. 使用 `adb logcat` 
 
    ```bash
-   adb logcat -s InternalBrowserRedirect
+   adb logcat -s InternalBrowserRedirect -v raw
    ```
 
 4. 再次打开 **目标应用** 的 内置浏览器
