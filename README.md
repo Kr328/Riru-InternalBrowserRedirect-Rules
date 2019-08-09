@@ -109,7 +109,7 @@ Rules for Riru - InternalBrowserRedirect
 3. Using `adb logcat` 
 
    ```bash
-   adb logcat -s InternalBrowserRedirect
+   adb logcat -s InternalBrowserRedirect -v raw
    ```
 
 4. Reopen **TARGET APPLICATION** 's internal browser 
