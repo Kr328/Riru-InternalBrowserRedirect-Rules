@@ -1,0 +1,14 @@
+{
+    "tag": "QQLite",
+    "authors": "Kr328",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://extra/url",
+            "url-filter": {
+                "ignore": ".*qq\\.com/.*",
+                "force": ""
+            }
+        }
+    ]
+}
