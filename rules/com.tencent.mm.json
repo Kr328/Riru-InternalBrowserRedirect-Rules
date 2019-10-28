@@ -1,7 +1,6 @@
 {
     "tag": "WeChat",
     "authors": "Kr328",
-    "version": 1,
     "rules": [
         {
             "tag": "default",

@@ -1,12 +1,12 @@
 {
-    "tag": "Bilibili",
+    "tag": "QQLite",
     "authors": "Kr328",
     "rules": [
         {
             "tag": "default",
-            "url-source": "intent://data",
+            "url-source": "intent://extra/url",
             "url-filter": {
-                "ignore": ".*bilibili\\.com.*",
+                "ignore": ".*qq\\.com/.*",
                 "force": ""
             }
         }
