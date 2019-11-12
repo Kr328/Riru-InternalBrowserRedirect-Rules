@@ -7,7 +7,7 @@
             "url-source": "intent://extra/url",
             "url-filter": {
                 "ignore": ".*qq\\.com/.*",
-                "force": ""
+                "force": "(http|https):\\\/\/(.*weixin\\.qq\\.com)\\/.*"
             }
         }
     ]
