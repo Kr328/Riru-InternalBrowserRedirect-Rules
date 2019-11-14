@@ -1,28 +1,32 @@
 {
-	"packages": [
-		{
-			"packageName": "com.tencent.tim",
-			"version": 2
-		},
-		{
-			"packageName": "com.tencent.mm",
-			"version": 1
-		},
-		{
-            "packageName": "tv.danmaku.bili",
-            "version": 2
-		},
-		{
-            "packageName": "com.bilibili.app.in",
-            "version": 2
-		},
-		{
-            "packageName": "com.tencent.mobileqq",
-            "version": 1
-		},
-                {
-                        "packageName": "com.tencent.qqlite",
-                        "version": 2
-		}
-	]
+  "packages": [
+    {
+      "packageName": "com.tencent.tim",
+      "version": 2
+    },
+    {
+      "packageName": "com.tencent.mm",
+      "version": 1
+    },
+    {
+      "packageName": "tv.danmaku.bili",
+      "version": 2
+    },
+    {
+      "packageName": "com.bilibili.app.in",
+      "version": 2
+    },
+    {
+      "packageName": "com.tencent.mobileqq",
+      "version": 2
+    },
+    {
+      "packageName": "com.tencent.qqlite",
+      "version": 2
+    },
+    {
+      "packageName": "com.alibaba.android.rimet",
+      "version": 1
+    }
+  ]
 }

@@ -1,22 +1,22 @@
 {
-    "tag": "TIM",
-    "authors": "Kr328",
-    "rules": [
-        {
-            "tag": "default",
-            "url-source": "intent://extra/url",
-            "url-filter": {
-                "ignore": ".*qq\\.com/.*",
-                "force": ""
-            }
-        },
-        {
-            "tag" :"build-in QQ Mail",
-            "url-source": "intent://extra/pluginsdk_inner_intent_extras/url",
-            "url-filter": {
-                "ignore": ".*qq\\.com/.*",
-                "force": ""
-            }
-        }
-    ]
+  "tag": "TIM",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://extra/url",
+      "url-filter": {
+        "ignore": ".*qq\\.com/.*",
+        "force": ""
+      }
+    },
+    {
+      "tag": "build-in QQ Mail",
+      "url-source": "intent://extra/pluginsdk_inner_intent_extras/url",
+      "url-filter": {
+        "ignore": ".*qq\\.com/.*",
+        "force": ""
+      }
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-    "tag": "Bilibili",
-    "authors": "Kr328",
-    "rules": [
-        {
-            "tag": "default",
-            "url-source": "intent://data",
-            "url-filter": {
-                "ignore": ".*bilibili\\.com.*",
-                "force": ""
-            }
-        }
-    ]
+  "tag": "Bilibili",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://data",
+      "url-filter": {
+        "ignore": ".*bilibili\\.com.*",
+        "force": ""
+      }
+    }
+  ]
 }

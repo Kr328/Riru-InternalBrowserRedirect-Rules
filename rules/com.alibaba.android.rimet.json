@@ -1,13 +1,13 @@
 {
-  "tag": "WeChat",
+  "tag": "DingTalk",
   "authors": "Kr328",
   "rules": [
     {
       "tag": "default",
-      "url-source": "intent://extra/rawUrl",
+      "url-source": "intent://extra/url",
       "url-filter": {
         "ignore": ".*qq\\.com/.*",
-        "force": ""
+        "force": "(http|https):\\//(.*weixin\\.qq\\.com)\\/.*"
       }
     }
   ]
