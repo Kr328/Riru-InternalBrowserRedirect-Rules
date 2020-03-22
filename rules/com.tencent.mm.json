@@ -14,7 +14,7 @@
       "tag": "QRScanner",
       "url-source": "intent://extra/rawUrl/url",
       "url-filter": {
-        "ignore": ".*qq\\.com/.*",
+        "ignore": ".*(qq\\.com|weimaqi\\.net)/.*",
         "force": ""
       }
     }
