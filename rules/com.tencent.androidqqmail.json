@@ -1,0 +1,14 @@
+{
+  "tag": "QQ Mail",
+  "authors": "NekoInverter",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://extra/url",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
