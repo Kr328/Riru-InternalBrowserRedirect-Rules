@@ -27,6 +27,10 @@
     {
       "packageName": "com.alibaba.android.rimet",
       "version": 1
+    },
+    {
+      "packageName": "eu.kanade.tachiyomi",
+      "version": 1
     }
   ]
 }
