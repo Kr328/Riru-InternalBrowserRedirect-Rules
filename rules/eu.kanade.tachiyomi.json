@@ -1,0 +1,14 @@
+{
+  "tag": "Tachiyomi",
+  "authors": null,
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://extra/url_key",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
