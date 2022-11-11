@@ -1,10 +1,10 @@
 {
-  "tag": "Bilibili",
-  "authors": "Kr328",
+  "tag": "Tachiyomi",
+  "authors": "",
   "rules": [
     {
       "tag": "default",
-      "url-source": "intent://data",
+      "url-source": "intent://extra/url_key",
       "url-filter": {
         "ignore": "",
         "force": ""
